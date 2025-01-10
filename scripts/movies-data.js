@@ -26,3 +26,24 @@ export const movies = [
         description: "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
     }
  ];
+
+ export const database = {
+    fish: [
+        {
+            name: "Nemo",
+            species: "Clownfish",
+            length: 3,
+            location: "Great Barrier Reef",
+            diet: "Omnivore",
+            image: "https://www.movieartarena.com/imgs/lionkingintz.jpg"
+        },
+        {
+            name: "Dory",
+            species: "Blue Tang",
+            length: 5,
+            location: "Great Barrier Reef",
+            diet: "Omnivore",
+            image: "https://example.com/images/dory.jpg"
+        },
+    ]
+}
